@@ -1,57 +1,66 @@
-<div align="center" width="50">
+<!-- 🌟 GitHub Profile README by Abdelrahman Medhat 🌟 -->
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
-
-<details>
-<p><strong> <summary> 💻 Coding & Vibing to : </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Medhat&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbdelrahman-Medhat&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Abdelrahman-grey?style=flat&logo=telegram)](https://t.me/YourTelegramUserName) <br>
-</div>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Abdelrahman+Medhat;Frontend+Developer+%7C+Content+Creator;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 👨‍💻 عني
-- 🧑 اسمي **عبدالرحمن مدحت**  
-- 🌐 مبرمج ويب و صانع محتوى على يوتيوب  
-- 🧠 أحب أشارك رحلتي في تعلم التقنية خطوة بخطوة  
-- 📈 هدفي ألهم وأساعد أكبر عدد من الناس يتعلموا التكنولوجيا من الصفر  
-- 🧭 أؤمن إن "الاستمرارية تصنع الفرق"  
+## 🧑‍💻 About Me
+Hi! I’m **Abdelrahman Medhat**, a passionate **Frontend Developer** and **Content Creator** from Egypt 🇪🇬.  
+I love sharing what I learn, building cool projects, and inspiring others to start their tech journey.  
+Currently, I’m focusing on **Frontend Development**, **Freelancing**, and **Building My Personal Brand** 🌱✨
 
 ---
 
-## 🧰 الأدوات اللي بشتغل بيها
+## 🛠️ Tech Stack
+Here are the main technologies I’ve worked with:
 
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,github,vscode" alt="Tech Stack Icons" />
+</p>
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+---
 
-```dart
-// tools_I_use organized
+## 🚀 Goals & Interests
+- 🌐 Frontend Development  
+- 💼 Freelancing & building real projects  
+- 📢 Growing my personal brand and helping beginners  
+- 📚 Always learning and sharing knowledge
 
-class About extends Me { 
-  const myTools = {  
-    "Languages" : { "HTML", "CSS", "JavaScript", "Python", "Json" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "VS Code", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop" }
-  };
-}
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Medhat&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Medhat&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="http://www.youtube.com/@AMSEduCode" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://github.com/Abdelrahman-Medhat" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## ✨ Quote I Live By
+> *"Success doesn’t come from what you do occasionally, it comes from what you do consistently."* 🚀
+
+---
+
+<p align="center">
+  💻 Built with ❤️ by <strong>Abdelrahman Medhat</strong>
+</p>
+
 
 
